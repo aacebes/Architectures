@@ -3,7 +3,7 @@ package controllers;
 import entities.MyModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
-import use.cases.ports.primary.MyService;
+import use.cases.ports.input.MyService;
 
 @RestController
 public class Controller {
