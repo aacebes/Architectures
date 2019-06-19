@@ -1,0 +1,4 @@
+package persistance;
+
+class MyModelPersistence {
+}
